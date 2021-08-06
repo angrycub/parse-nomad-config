@@ -8,6 +8,7 @@
 Thumbs.db
 .idea
 
+
 # Folders
 _obj
 _test
@@ -47,7 +48,6 @@ client/state/testdata/*.db
 nomad-config2json_linux_amd64
 nomad-config2json_darwin_amd64
 TODO.md
-GNUMakefile.local
 
 .terraform
 *.tfstate*
